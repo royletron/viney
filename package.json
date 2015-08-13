@@ -1,0 +1,21 @@
+{
+  "name": "viney",
+  "version": "0.0.1",
+  "description": "ComicVine client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darren Royle",
+  "license": "ISC",
+  "dependencies": {
+    "URIjs": "^1.16.0",
+    "q": "^1.4.1",
+    "request": "^2.60.0"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "chai-as-promised": "^5.1.0",
+    "mocha": "^2.2.5"
+  }
+}
